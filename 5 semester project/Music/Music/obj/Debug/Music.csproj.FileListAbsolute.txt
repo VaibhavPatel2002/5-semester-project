@@ -1,0 +1,41 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Music\bin\Debug\Music.exe.config
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Music\bin\Debug\Music.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Music\bin\Debug\Music.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Music\obj\Debug\Music.Form1.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Music\obj\Debug\Music.csproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Music\obj\Debug\Music.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Music\obj\Debug\Music.pdb
+D:\Courses\project of 5 semester\Music\Music\bin\Debug\Music.exe.config
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.exe
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.pdb
+D:\Courses\project of 5 semester\Music\Music\bin\Debug\Music.exe
+D:\Courses\project of 5 semester\Music\Music\bin\Debug\Music.pdb
+D:\Courses\project of 5 semester\Music\Music\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.csprojResolveAssemblyReference.cache
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.Properties.Resources.resources
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.csproj.GenerateResource.Cache
+D:\Courses\project of 5 semester\Music\Music\bin\Debug\Guna.UI.dll
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.Home.resources
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.Student.resources
+D:\Courses\project of 5 semester\Music\Music\bin\Debug\Guna.UI2.dll
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.Teachers.resources
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.Courses.resources
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.Fees.resources
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.Dashboard.resources
+D:\Courses\project of 5 semester\Music\Music\obj\Debug\Music.Login.resources
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\bin\Debug\Music.exe.config
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.exe
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.pdb
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\bin\Debug\Music.exe
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\bin\Debug\Music.pdb
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.csprojResolveAssemblyReference.cache
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.Courses.resources
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.Dashboard.resources
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.Fees.resources
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.Home.resources
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.Login.resources
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.Properties.Resources.resources
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.Student.resources
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.Teachers.resources
+F:\BCA SEMESTER 5 ALL SUBJECT PDF\5 semester project\Music\Music\obj\Debug\Music.csproj.GenerateResource.Cache
